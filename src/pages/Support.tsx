@@ -82,7 +82,8 @@ u
 
         <div className="mt-6 text-center">
           <p className="text-gray-500 text-sm">Available 24/7 for your support needs</p>
-          <p className="text-blue-600 font-medium mt-1 text-sm">bluepaycompany568@gmail.com</p>
+          <p className="text-blue-600 font-medium mt-1 text-sm">donbo7794@gmail.com
+          </p>
         </div>
       </div>
     </div>
