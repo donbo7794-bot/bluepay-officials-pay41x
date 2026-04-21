@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 
 const Support = () => {
   const navigate = useNavigate();
-u
+
   const handleLiveChatClick = () => {
     window.open('https://t.me/Bluepay4586', '_blank');
   };
@@ -37,7 +37,7 @@ u
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={() => window.open('mailto: bluepaycompanylimited001@gmail.com')}
+              onClick={() => window.open('mailto: bluepaycompany568@gmail.com')}
             >
               Send Email
             </Button>
@@ -55,7 +55,7 @@ u
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={() => window.open('https://wa.me/2347032254507')}
+              onClick={() => window.open('https://wa.me/234‪9026589886‬')}
             >
               Chat on WhatsApp
             </Button>
@@ -82,8 +82,7 @@ u
 
         <div className="mt-6 text-center">
           <p className="text-gray-500 text-sm">Available 24/7 for your support needs</p>
-          <p className="text-blue-600 font-medium mt-1 text-sm">donbo7794@gmail.com
-          </p>
+          <p className="text-blue-600 font-medium mt-1 text-sm">bluepaycompany568@gmail.com</p>
         </div>
       </div>
     </div>
